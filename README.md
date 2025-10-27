@@ -2,4 +2,4 @@
 *Pragmatic software craftsman — clean code, business impact.*
 * I build backend platforms and data pipelines with simple designs, fast tests, and clear docs.
 * Currently exploring Airflow & Dagster
-* Bengaluru · Remote-first · linkedin.com/in/karthikmaruthu
+* Remote-first · linkedin.com/in/karthikmaruthu
